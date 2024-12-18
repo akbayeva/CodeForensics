@@ -1,0 +1,1 @@
+ò 2jsXhrVuploads/extracted/WebGoat-main/src/main/resources/lessons/sqlinjection/js/challenge.js

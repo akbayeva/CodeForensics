@@ -1,0 +1,1 @@
+¤ 2cssX:hr^uploads/extracted/WebGoat-main/src/main/resources/lessons/pathtraversal/css/path_traversal.css

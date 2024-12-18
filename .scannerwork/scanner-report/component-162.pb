@@ -1,0 +1,1 @@
+¢ 2webX8hrSuploads/extracted/WebGoat-main/src/main/resources/webgoat/templates/scoreboard.html

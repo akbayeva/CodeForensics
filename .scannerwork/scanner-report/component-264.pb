@@ -1,0 +1,1 @@
+ˆ 2webX>hrcuploads/extracted/WebGoat-main/src/main/resources/lessons/securepasswords/html/SecurePasswords.html

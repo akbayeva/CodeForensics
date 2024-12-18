@@ -1,0 +1,1 @@
+Ê 2jsX	hrKuploads/extracted/WebGoat-main/src/main/resources/lessons/jwt/js/jwt-jku.js

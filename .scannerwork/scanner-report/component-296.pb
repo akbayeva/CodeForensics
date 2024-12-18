@@ -1,0 +1,1 @@
+¨ 2webXUhryuploads/extracted/WebGoat-main/src/main/resources/lessons/clientsidefiltering/lessonSolutions/en/ClientSideFiltering.html

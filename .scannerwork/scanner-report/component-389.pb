@@ -1,0 +1,1 @@
+… 2webXPhr`uploads/extracted/WebGoat-main/src/main/resources/lessons/xss/html/CrossSiteScriptingStored.html

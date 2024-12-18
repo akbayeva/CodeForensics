@@ -1,0 +1,1 @@
+ù 2webXWhrYuploads/extracted/WebGoat-main/src/main/resources/lessons/httpbasics/html/HttpBasics.html

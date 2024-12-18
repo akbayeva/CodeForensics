@@ -1,0 +1,1 @@
+± 2webX·hrMuploads/extracted/WebGoat-main/src/main/resources/lessons/idor/html/IDOR.html

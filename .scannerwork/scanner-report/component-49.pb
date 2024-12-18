@@ -1,0 +1,1 @@
+1 2webXhrYuploads/extracted/WebGoat-main/src/main/resources/webwolf/templates/fragments/footer.html

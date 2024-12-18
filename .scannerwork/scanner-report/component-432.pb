@@ -1,0 +1,1 @@
+° 2jsXhrIuploads/extracted/WebGoat-main/src/main/resources/lessons/idor/js/idor.js

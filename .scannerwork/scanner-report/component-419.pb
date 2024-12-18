@@ -1,0 +1,1 @@
+£ 2webX#hrquploads/extracted/WebGoat-main/src/main/resources/lessons/webwolfintroduction/templates/webwolfPasswordReset.html

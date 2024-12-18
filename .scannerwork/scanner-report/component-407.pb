@@ -1,0 +1,1 @@
+— 2webX!hr[uploads/extracted/WebGoat-main/src/main/resources/lessons/spoofcookie/html/SpoofCookie.html

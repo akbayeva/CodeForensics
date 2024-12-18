@@ -1,0 +1,1 @@
+Z 2cssXDhr~uploads/extracted/WebGoat-main/src/main/resources/webgoat/static/plugins/bootstrap-wysihtml5/css/bootstrap3-wysiwyg5-color.css

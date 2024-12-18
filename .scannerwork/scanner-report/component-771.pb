@@ -1,0 +1,1 @@
+ƒ 2webXhr9uploads/extracted/vulpy-master/good/templates/navbar.html

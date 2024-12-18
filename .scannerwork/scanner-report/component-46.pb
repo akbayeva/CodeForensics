@@ -1,0 +1,1 @@
+. 2jsXhrKuploads/extracted/WebGoat-main/src/main/resources/webwolf/static/js/mail.js

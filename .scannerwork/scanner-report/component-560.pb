@@ -1,0 +1,1 @@
+° 2jsXIhr\uploads/extracted/WebGoat-main/src/main/resources/lessons/pathtraversal/js/path_traversal.js

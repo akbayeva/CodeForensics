@@ -1,0 +1,1 @@
+¢ 2webXghrkuploads/extracted/WebGoat-main/src/main/resources/lessons/webwolfintroduction/html/WebWolfIntroduction.html

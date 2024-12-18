@@ -1,0 +1,1 @@
+7 2webXGhrLuploads/extracted/WebGoat-main/src/main/resources/webwolf/templates/jwt.html

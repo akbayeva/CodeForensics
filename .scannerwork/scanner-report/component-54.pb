@@ -1,0 +1,1 @@
+6 2webXZhrUuploads/extracted/WebGoat-main/src/main/resources/webwolf/templates/registration.html

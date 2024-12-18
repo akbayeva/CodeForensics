@@ -1,0 +1,1 @@
+¸ 2webXhrauploads/extracted/WebGoat-main/src/main/resources/lessons/hijacksession/templates/hijackform.html

@@ -1,0 +1,1 @@
+c 2jsX-hrQuploads/extracted/WebGoat-main/src/main/resources/webgoat/static/js/scoreboard.js

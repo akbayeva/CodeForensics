@@ -1,0 +1,1 @@
+Ð 2webX¾hrKuploads/extracted/WebGoat-main/src/main/resources/lessons/jwt/html/JWT.html

@@ -1,0 +1,1 @@
+‡ 2webX¶hrZuploads/extracted/WebGoat-main/src/main/resources/lessons/xss/html/CrossSiteScripting.html

@@ -1,0 +1,1 @@
+¤ 2webX\hrUuploads/extracted/WebGoat-main/src/main/resources/webgoat/templates/registration.html

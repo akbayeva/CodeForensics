@@ -1,0 +1,1 @@
+ƒ 2jsX.hrNuploads/extracted/WebGoat-main/src/main/resources/lessons/xss/js/stored-xss.js

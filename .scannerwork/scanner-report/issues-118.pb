@@ -1,0 +1,15 @@
+e
+
+javascriptS3504)Unexpected var, use let or const instead. 2  @b
+MAINTAINABILITYHIGHe
+
+javascriptS3504)Unexpected var, use let or const instead. 2 %@b
+MAINTAINABILITYHIGHe
+
+javascriptS3504)Unexpected var, use let or const instead. 2
+
+ &@b
+MAINTAINABILITYHIGHe
+
+javascriptS3504)Unexpected var, use let or const instead. 2 &@b
+MAINTAINABILITYHIGH

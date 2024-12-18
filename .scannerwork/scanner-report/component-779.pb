@@ -1,0 +1,1 @@
+‹ 2webXhr7uploads/extracted/vulpy-master/good/templates/head.html

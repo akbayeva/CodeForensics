@@ -1,0 +1,1 @@
+r 2jsXhr\uploads/extracted/WebGoat-main/src/main/resources/webgoat/static/js/goatApp/scoreboardApp.js

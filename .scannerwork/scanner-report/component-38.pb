@@ -1,0 +1,1 @@
+& 2cssX]hrPuploads/extracted/WebGoat-main/src/main/resources/webwolf/static/css/webwolf.css

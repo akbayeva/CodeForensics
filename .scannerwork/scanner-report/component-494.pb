@@ -1,0 +1,1 @@
+î 2cssXahrXuploads/extracted/WebGoat-main/src/main/resources/lessons/sqlinjection/css/challenge.css

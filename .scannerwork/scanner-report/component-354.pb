@@ -1,0 +1,1 @@
+â 2webX|hrYuploads/extracted/WebGoat-main/src/main/resources/lessons/challenges/html/Challenge6.html

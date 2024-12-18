@@ -1,0 +1,1 @@
+£ 2webX;hrNuploads/extracted/WebGoat-main/src/main/resources/webgoat/templates/login.html

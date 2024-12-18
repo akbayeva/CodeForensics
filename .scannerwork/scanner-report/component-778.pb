@@ -1,0 +1,1 @@
+Š 2webXhr:uploads/extracted/vulpy-master/good/templates/welcome.html

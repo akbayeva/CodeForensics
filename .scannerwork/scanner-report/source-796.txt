@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SonarQube Reports</title>
+</head>
+<body>
+    <h1>SonarQube Project Reports</h1>
+
+    {% if reports %}
+        <h2>Available Reports</h2>
+        <ul>
+            {% for report in reports %}
+                <li><a href="{{ report }}">{{ report }}</a></li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No reports available.</p>
+    {% endif %}
+
+    {% if report_path %}
+        <h2>SonarQube Report</h2>
+        <p>Path to the generated report: <strong>{{ report_path }}</strong></p>
+        <pre>
+            {% include report_path %}
+        </pre>
+    {% endif %}
+</body>
+</html>

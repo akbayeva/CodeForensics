@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sonar Scanner Upload</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>SonarScanner Upload</h1>
+            <p>Upload your project to run SonarQube analysis.</p>
+        </header>
+
+        <form action="/upload" method="POST" enctype="multipart/form-data">
+            <div class="upload-box">
+                <label for="file" class="upload-label">Please choose a ZIP file containing your project:</label>
+                <input type="file" name="file" id="file" class="upload-input" required>
+            </div>
+            <button type="submit" class="upload-btn">Upload and Scan</button>
+        </form>
+    </div>
+</body>
+</html>

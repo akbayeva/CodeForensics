@@ -1,0 +1,1 @@
+‰ 2webX1hr6uploads/extracted/vulpy-master/good/templates/csp.html

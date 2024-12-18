@@ -1,0 +1,1 @@
+W 2cssX‹hrhuploads/extracted/WebGoat-main/src/main/resources/webgoat/static/plugins/bootstrap-slider/css/slider.css

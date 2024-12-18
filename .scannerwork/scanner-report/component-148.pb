@@ -1,0 +1,1 @@
+” 2webX0hrfuploads/extracted/WebGoat-main/src/main/resources/webgoat/static/js/goatApp/templates/report_card.html

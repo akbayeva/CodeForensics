@@ -1,0 +1,1 @@
+Ö 2cssXhrhuploads/extracted/WebGoat-main/src/main/resources/lessons/bypassrestrictions/css/bypass-restrictions.css

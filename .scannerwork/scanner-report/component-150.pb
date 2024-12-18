@@ -1,0 +1,1 @@
+– 2webXhreuploads/extracted/WebGoat-main/src/main/resources/webgoat/static/js/goatApp/templates/scoreboard.html

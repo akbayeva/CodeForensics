@@ -1,0 +1,1 @@
+Ê 2webX1hr5uploads/extracted/vulpy-master/bad/templates/csp.html

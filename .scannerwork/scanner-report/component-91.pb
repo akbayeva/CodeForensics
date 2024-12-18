@@ -1,0 +1,1 @@
+[ 2jsX´Jhrruploads/extracted/WebGoat-main/src/main/resources/webgoat/static/plugins/bootstrap-wysihtml5/js/wysihtml5-0.3.0.js

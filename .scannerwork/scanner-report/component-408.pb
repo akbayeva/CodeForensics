@@ -1,0 +1,1 @@
+˜ 2webXhrduploads/extracted/WebGoat-main/src/main/resources/lessons/spoofcookie/templates/spoofcookieform.html

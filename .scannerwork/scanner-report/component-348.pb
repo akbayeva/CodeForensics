@@ -1,0 +1,1 @@
+Ü 2jsXhrUuploads/extracted/WebGoat-main/src/main/resources/lessons/challenges/js/challenge6.js

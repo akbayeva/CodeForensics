@@ -1,0 +1,1 @@
+¡ 2webXNhrauploads/extracted/WebGoat-main/src/main/resources/lessons/lessontemplate/html/LessonTemplate.html

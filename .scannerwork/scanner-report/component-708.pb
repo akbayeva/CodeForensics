@@ -1,0 +1,1 @@
+Ä 2webXhr8uploads/extracted/vulpy-master/bad/templates/navbar.html

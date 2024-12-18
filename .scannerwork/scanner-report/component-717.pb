@@ -1,0 +1,1 @@
+Í 2webXhr8uploads/extracted/vulpy-master/bad/templates/footer.html

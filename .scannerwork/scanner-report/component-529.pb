@@ -1,0 +1,1 @@
+‘ 2webX!hreuploads/extracted/WebGoat-main/src/main/resources/lessons/passwordreset/templates/password_reset.html

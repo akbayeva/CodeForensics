@@ -1,0 +1,1 @@
+– 2jsXhrSuploads/extracted/WebGoat-main/src/main/resources/lessons/spoofcookie/js/handler.js

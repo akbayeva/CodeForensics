@@ -1,0 +1,1 @@
+Ì 2webXhr6uploads/extracted/vulpy-master/bad/templates/head.html

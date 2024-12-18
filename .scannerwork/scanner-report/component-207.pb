@@ -1,0 +1,1 @@
+Ï 2jsXhrQuploads/extracted/WebGoat-main/src/main/resources/lessons/jwt/js/jwt-weak-keys.js

@@ -1,0 +1,1 @@
+8 2webXšhrPuploads/extracted/WebGoat-main/src/main/resources/webwolf/templates/mailbox.html

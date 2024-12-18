@@ -1,0 +1,1 @@
+4 2webX;hrQuploads/extracted/WebGoat-main/src/main/resources/webwolf/templates/requests.html

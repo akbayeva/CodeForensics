@@ -1,0 +1,1 @@
+Y 2cssXghrxuploads/extracted/WebGoat-main/src/main/resources/webgoat/static/plugins/bootstrap-wysihtml5/css/bootstrap-wysihtml5.css

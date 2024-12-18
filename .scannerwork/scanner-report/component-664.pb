@@ -1,0 +1,1 @@
+˜ 2webX'hrkuploads/extracted/WebGoat-main/src/main/resources/lessons/deserialization/html/InsecureDeserialization.html

@@ -1,0 +1,1 @@
+= 2cssX²hrPuploads/extracted/WebGoat-main/src/main/resources/webgoat/static/css/webgoat.css

@@ -1,0 +1,1 @@
+Ž 2jsXhrcuploads/extracted/WebGoat-main/src/main/resources/lessons/passwordreset/js/password-reset-simple.js

@@ -1,0 +1,1 @@
+à 2jsXhrPuploads/extracted/WebGoat-main/src/main/resources/lessons/ssrf/js/credentials.js

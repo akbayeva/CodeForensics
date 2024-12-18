@@ -1,0 +1,1 @@
+µ 2webXhrouploads/extracted/WebGoat-main/src/main/resources/lessons/hijacksession/lessonSolutions/html/HijackSession.html

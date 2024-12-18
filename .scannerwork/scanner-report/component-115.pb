@@ -1,0 +1,1 @@
+s 2jsX¢hrjuploads/extracted/WebGoat-main/src/main/resources/webgoat/static/js/goatApp/controller/LessonController.js

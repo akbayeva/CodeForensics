@@ -1,0 +1,134 @@
+/* Используем приятный шрифт */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f9fc;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+/* Контейнер для контента */
+.container {
+    width: 70%;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+
+/* Заголовки */
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #1e2a39;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #6c757d;
+}
+
+/* Форма загрузки файла */
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.upload-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.upload-label {
+    font-size: 1.2rem;
+    color: #495057;
+    margin-bottom: 10px;
+}
+
+.upload-input {
+    font-size: 1rem;
+    padding: 12px;
+    width: 100%;
+    max-width: 350px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.upload-btn {
+    background-color: #007bff;
+    color: white;
+    font-size: 1.2rem;
+    padding: 12px 24px;
+    width: 100%;
+    max-width: 350px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+}
+
+.upload-btn:hover {
+    background-color: #0056b3;
+}
+
+.upload-btn:focus {
+    outline: none;
+}
+
+/* Страница с результатами */
+.results {
+    margin-top: 40px;
+}
+
+.result-item {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+}
+
+.result-item a {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.result-item a:hover {
+    text-decoration: underline;
+    color: #0056b3;
+}
+
+/* Дополнительные стили для футера */
+footer {
+    text-align: center;
+    margin-top: 50px;
+    color: #6c757d;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+/* Мобильная адаптация */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+        padding: 20px;
+    }
+
+    .upload-input, .upload-btn {
+        max-width: 100%;
+    }
+}
